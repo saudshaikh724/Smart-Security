@@ -1,0 +1,48 @@
+<RCC>
+  <qresource prefix="background">
+    <file>wallpaper/setting.jpg</file>
+    <file>wallpaper/background_red.jpg</file>
+    <file>wallpaper/Blue-And-Black-Wallpaper-25-1920x1080.jpg</file>
+    <file>wallpaper/background.jpg</file>
+    <file>wallpaper/background_black.jpg</file>
+    <file>wallpaper/background_black_shade.jpg</file>
+    <file>wallpaper/background_purple.jpg</file>
+    <file>wallpaper/gray-background.jpg</file>
+    <file>wallpaper/green_blue_abstract-1366x768.jpg</file>
+    <file>wallpaper/homepage.jpg</file>
+    <file>wallpaper/monitor_720.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>wallpaper/FR.png</file>
+    <file>wallpaper/Apple_Settings.png</file>
+    <file>wallpaper/user1.png</file>
+    <file>wallpaper/user-blue.png</file>
+    <file>wallpaper/folder.png</file>
+    <file>wallpaper/red-circle-transparent-png-2.png</file>
+    <file>wallpaper/Livestream.png</file>
+    <file>wallpaper/Image-Capture.png</file>
+    <file>wallpaper/rec.png</file>
+    <file>wallpaper/eyes.png</file>
+    <file>wallpaper/Start_Stop.png</file>
+    <file>wallpaper/Start_Stop2.png</file>
+    <file>wallpaper/aboutus.png</file>
+    <file>wallpaper/block_user.png</file>
+    <file>wallpaper/Btn_Add.png</file>
+    <file>wallpaper/Btn_Back.png</file>
+    <file>wallpaper/btn_del.png</file>
+    <file>wallpaper/Btn_Delete.png</file>
+    <file>wallpaper/Btn_Next.png</file>
+    <file>wallpaper/Btn_Previous.png</file>
+    <file>wallpaper/btn_Save.png</file>
+    <file>wallpaper/Btn_update.png</file>
+    <file>wallpaper/encode.png</file>
+    <file>wallpaper/gmail.png</file>
+    <file>wallpaper/clear.png</file>
+    <file>wallpaper/Image-Capture.png</file>
+    <file>wallpaper/infom.png</file>
+    <file>wallpaper/monitor.png</file>
+    <file>wallpaper/rec.png</file>
+    <file>wallpaper/user_border.png</file>
+    <file>wallpaper/user_profile.png</file>
+  </qresource>
+</RCC>
